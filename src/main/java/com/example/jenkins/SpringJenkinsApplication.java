@@ -21,6 +21,8 @@ public class SpringJenkinsApplication {
 		Logger.info("Application Executed...");
 		SpringApplication.run(SpringJenkinsApplication.class, args);
 		Logger.info("Hey Bhaskar");
+		Logger.info("I hope you are doing good");
+		
 	}
 
 }
